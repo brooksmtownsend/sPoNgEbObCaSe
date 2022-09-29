@@ -1669,7 +1669,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "4501abdff3ae82a1c1b477a17252eb69cee9e66eb915c1abaa4f44d873df9f09"
 
 [[package]]
-name = "s-po-ng-eb-ob-ca-se"
+name = "s_po_ng_eb_ob_ca_se"
 version = "0.1.0"
 dependencies = [
  "form_urlencoded",
