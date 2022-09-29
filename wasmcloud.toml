@@ -1,0 +1,7 @@
+name = "s_po_ng_eb_ob_ca_se"
+language = "rust"
+type = "actor"
+version = "0.1.0"
+
+[actor]
+claims = ["wasmcloud:httpserver"]
